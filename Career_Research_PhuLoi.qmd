@@ -1,0 +1,63 @@
+---
+title: "Career Research Essay: Preparing for Careers in Omnichannel Retailing and E-Commerce"
+author: "Phu Loi"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Introduction
+
+Omnichannel retailing has changed what a "retail career" even means. A generation ago, working in retail mostly meant working in a store. Now the same brand might need someone managing the Shopify backend, someone running paid social ads, and someone coordinating inventory between a warehouse and a website, often before a customer ever walks into a physical location. Digital marketing for retail and e-commerce sits right in the middle of this shift, since it's the function responsible for getting customers to notice a brand, click into its site, and trust it enough to actually buy something. For me, finishing an MBA with a marketing focus while job searching in Southern California, this career area isn't abstract. It's the next step I'm trying to take.
+
+For this essay I researched the digital marketing for retail and e-commerce career area, which covers titles like Digital Marketing Coordinator, E-Commerce Coordinator, and Influencer Marketing Coordinator. I found three real, current postings in the Los Angeles and Orange County region to see what employers are actually asking for right now.
+
+## Summary of Job Postings
+
+**1. Ecommerce Operations Coordinator, ANINE BING (Los Angeles, CA, hybrid).** ANINE BING is a Los Angeles fashion brand. This role sits on the company's E-Commerce team and supports cross-functional operations, project execution, inventory management, and marketplace initiatives. It asks for one to three years of e-commerce or marketplace operations experience, Shopify and NetSuite familiarity as a plus, and advanced Excel and Google Suite skills.
+
+**2. Digital Marketing Coordinator, E-Commerce, Living Spaces (La Mirada, CA).** Living Spaces is a home furniture retailer headquartered in La Mirada. This role manages how products are displayed and described on the website, working with purchasing, studio, copywriting, and web development. The job involves maintaining product pages, editing web images in Photoshop, answering customer product questions, and supporting Google Ads data. It asks for a bachelor's degree and at least one year of related marketing or web analytics experience.
+
+**3. Site Marketing Manager, Fabletics Mens, Fabletics (El Segundo, CA).** Fabletics is a global activewear e-commerce brand under TechStyleOS, which also owns JustFab and ShoeDazzle. This role translates brand strategy into homepage and landing page storytelling for the men's business, executing site campaigns end to end with Brand, Creative, Site Merchandising, and Ecomm Ops. It asks for four to six or more years of site or e-commerce marketing experience, well past entry level. I included it on purpose, as a benchmark for where a coordinator role like the first two could eventually lead.
+
+## Skills and Knowledge Required
+
+**1. Technical and platform skills.** Every posting names specific tools instead of just saying "marketing experience." ANINE BING wants Shopify and NetSuite. Living Spaces wants Photoshop and Google Ads. Fabletics wants someone comfortable executing homepage and landing page work alongside an analytics team. None of these are advanced engineering skills, they're really operational fluency with the systems retail teams run on day to day.
+
+**2. Cross-functional coordination.** All three roles describe the person as a connector between departments rather than someone who owns one task alone. ANINE BING partners with Merchandising, E-Commerce, and Operations. Living Spaces works with purchasing, studio, copywriting, and web development. Fabletics partners with Brand Marketing, Creative, Site Merchandising, and Ecomm Ops. This lines up with how the course describes omnichannel work generally, since it's rarely siloed to one team.
+
+**3. Data and soft skills.** Each posting also expects someone who can track performance, not just execute tasks, and that expectation grows the higher up the ladder you go. ANINE BING wants regular reporting, while Fabletics wants someone who can balance storytelling with conversion data. On top of that, organization, attention to detail, and clear communication show up in almost identical language across all three, since whoever holds these jobs is usually the one person tracking a process from start to finish across teams.
+
+What's different across the three is where the marketing happens, and at what level. ANINE BING and Living Spaces are entry level coordinator roles, one more operations focused and the other more content focused. Fabletics is manager level and asks for four to six or more years of experience. I'm using it mostly as a marker of where a coordinator career could eventually go, not as something I'd apply for right now.
+
+## Connection to This Course and the MSDM Program
+
+This course connects to these postings more directly than I expected. Building a practice Shopify store gives me hands on, demonstrable experience with the exact platform ANINE BING names. The coursework on product catalog development and online merchandising mirrors what the Living Spaces role does every day, which is managing how products are displayed and described online. Learning GA4, Google Merchant Center, and Google Shopping Ads builds the reporting fluency all three postings expect in some form, and connects directly to what Fabletics needs when it talks about balancing storytelling with conversion performance.
+
+Other parts of the MSDM program reinforce different pieces of the same skill set. Digital marketing and marketing analytics coursework build the data fluency that shows up in all three postings. Brand management and strategic marketing connect to Living Spaces' language about embodying the brand voice, and to Fabletics' need for site experiences that show up cohesively and on brand. Even coordinator level work has to protect a consistent brand identity, and that responsibility only grows at the manager level. Finally, the program's emphasis on consulting projects, like the CPP Farm Store project, builds the kind of cross-functional collaboration skill every one of these postings asks for.
+
+## Personal Career Reflection
+
+Of the three, the Living Spaces Digital Marketing Coordinator role interests me most, mainly because it's closest to work I'm already doing. I currently handle marketing for Bếp Việt, a Vietnamese restaurant in Fountain Valley, where I've written promotion focused content, edited food photography, and built out a content calendar. That maps almost directly onto managing product photos, descriptions, and web content while keeping a consistent brand voice. I also run Meta Ads for a jewelry brand, The 5th C Diamond, and have written Vietnamese language content for it, which has given me real experience turning product details into content that drives someone to actually buy online. ANINE BING style role also appeals to me, partly because I'm also applying to supply chain and logistics positions, and its mix of e-commerce marketing with operations and inventory reporting would let me use both halves of my background at once. The Fabletics posting is useful in a different way. It's less a near term goal and more a benchmark, since it shows how a coordinator role focused on product pages and brand voice today could eventually grow into one with real ownership over conversion driving site experiences, once I've put in a few more years of e-commerce marketing experience. I already have hands on experience with Meta Ads, bilingual content creation, competitive pricing analysis, and small business marketing strategy, built through live client work rather than coursework alone. My MBA has also given me experience with go to market strategy, social media strategy, and Tableau based analysis. I haven't yet built hands on experience with Shopify's backend or NetSuite, and my GA4 and Google Merchant Center knowledge is still more conceptual than something I've logged real platform hours doing. I plan to build out my practice Shopify store in this course as a concrete project I can link on my resume and LinkedIn, connect my existing Bếp Việt and 5th C Diamond marketing work to GA4 so I can talk about real performance data instead of only creative output, and update my LinkedIn and resume to highlight this combination of hands on small business marketing and MBA level analytics, since these postings clearly reward people who can do both.
+
+## References
+
+ANINE BING. (2026). *Ecommerce Operations Coordinator* \[Job posting\]. Glassdoor. Retrieved June 2026, from https://www.glassdoor.com/Overview/Working-at-ANINE-BING-EI_IE2525838.11,21.htm
+
+Living Spaces. (2026). *Digital Marketing Coordinator* \[Job posting\]. JobzMall. Retrieved June 2026, from https://www.jobzmall.com/living-spaces/job/digital-marketing-coordinator-10
+
+Fabletics. (2026). *Site Marketing Manager (Fabletics Mens)* \[Job posting\]. Workday. Retrieved June 2026, from https://justfab.wd1.myworkdayjobs.com/en-US/fabletics/details/Site-Marketing-Manager_R8254
+
+## Appendix
+
+GitHub Repository: *\[insert your GitHub repo URL here\]*
+
+GitHub Pages (Published Report): *\[insert your GitHub Pages URL here\]*
